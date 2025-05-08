@@ -1,0 +1,117 @@
+.Clean-Link:link{
+    color: black;
+    margin: 30px;
+}
+.Clean-Link{
+    text-decoration: none;
+    font-size: large;
+    margin-bottom: 45px;
+    
+}
+.Clean-Link:hover{
+    color: aliceblue;
+}
+.Notes>div{
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+}
+.List div{
+    font-size: 45px;
+    height: 20vw;
+    background-color: #eeff01;
+    color: blue;
+    text-decoration-line: underline;
+}
+body {
+    margin:0%;
+}
+td.publications {
+    width:30vw;
+    padding:10px 50px;
+}
+p.publications {
+    line-height:170%;
+}
+td.publication-images {
+    width:fit-content;
+    padding:10px 50px;
+}
+header {
+    font-size:24px;
+}
+p.pub-head-head {
+    margin-bottom:20px;
+    font-weight:900;
+}
+footer {
+    text-align:right;
+    font-weight:700;
+}
+article.publications {
+    margin:20px;
+    background-color:aliceblue;
+    width:fit-content;
+    border-radius:15px;
+}
+table.home {
+    margin:20px;
+}
+td.home {
+    width:30vw;
+    padding:10px 50px;
+    background-color:#ffd55a;
+    border-radius:15px;
+}
+p.home {
+    line-height:170%;
+}
+td.right-home {
+    width:fit-content;
+    padding:10px 20px;
+    background-color:#63aaff;
+    border-radius:15px;
+}
+td.right-right-home {
+    width:fit-content;
+    padding:6px 30px;
+    background-color:#00356b;
+    border-radius:15px;
+}
+td.about {
+    padding:10px;
+}
+button {
+    background-color:#ffd55a;
+    padding:20px 10px;
+    margin:10px 0px;
+    border-radius:15px;
+    border:none;
+    box-shadow:0px 8px #988036;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:larger;
+    width:100%;
+
+}
+button:hover {
+    background-color:#bd9f46;
+}
+button:active {
+    transform:translateY(4px);
+    box-shadow:0px 4px #5f5022;
+}
+.Notes>div{
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+}
+.Story{
+    width:100%; 
+    height:500px; 
+    background-color: #ffd55a;
+    border-radius: 30px;
+}
+details {
+    border: solid 2px black;
+    padding:5px;
+    border-radius:3px;
+    margin:5px 0px;
+}
