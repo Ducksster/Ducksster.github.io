@@ -1,0 +1,21 @@
+.Stories input {
+  width: 100%;
+  max-width: 75%;
+  height: auto;
+}
+
+.Dynamic-header {
+  width: 100%;
+  max-width: 75%;
+  height: auto;
+}
+.Story-header{
+  width: 50vw;
+  max-width: 75vw;
+  height: auto;
+}
+.Story input{
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
