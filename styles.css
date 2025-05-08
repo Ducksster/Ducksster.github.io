@@ -8,6 +8,10 @@
     margin-bottom: 45px;
     
 }
+.Clean-Link:visited{
+    color: black;
+    margin: 30px;
+}
 .Clean-Link:hover{
     color: aliceblue;
 }
