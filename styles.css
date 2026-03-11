@@ -1,17 +1,17 @@
 a:link{
-  color:blue;
+  color:black;
 }
 a:visited{
-  color:purple;
+  color:black;
 }
 a:hover{
-  color:orange;
+  color:black;
 }
 a:focus{
-  color:green;
+  color:black;
 }
 a:active{
-  color:red;
+  color:black;
 }
 
 body{
