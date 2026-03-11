@@ -1,19 +1,18 @@
-a:link{
+.Header a:link{
   color:black;
 }
-a:visited{
+.Header a:visited{
   color:black;
 }
-a:hover{
+.Header a:hover{
   color:black;
 }
-a:focus{
+.Header a:focus{
   color:black;
 }
-a:active{
+.Header a:active{
   color:black;
 }
-
 body{
   overflow-wrap: break-word;
   background-color:#fffcf2;
