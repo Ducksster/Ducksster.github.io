@@ -5,7 +5,6 @@ import java.util.Scanner;
 
 public class Add_Update {
     public static void main(String[] args) {
-    String code = "";
             Scanner input = new Scanner(System.in);
             System.out.println("Input headline:");
             String headline = input.nextLine();
